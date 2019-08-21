@@ -10,4 +10,4 @@ sudo git remote rm origin
 
 sudo git remote add origin "https://github.com/MrSoir/d1miniirrigation.git"
 
-sudo git push -u origin master2
+sudo git push -u origin master
