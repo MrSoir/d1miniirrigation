@@ -55,8 +55,8 @@ void updateServerData();
 //------------------constants and global/static variables----------------------------
 
 int PORT = 80;
-String WIFI_NAME  = "BigDaddy&Plankton";
-String WIFI_PWD   = "zmBW2dS:zxmtz16";
+String WIFI_NAME  = "YOUR_WIFI_SSID";
+String WIFI_PWD   = "YOUR_WIFI_PASSWORD";
 String DNS_NAME   = "d1miniirrigation";
 
 std::shared_ptr<String> SERVER_MDNS = std::make_shared<String>("raspberrypi");
